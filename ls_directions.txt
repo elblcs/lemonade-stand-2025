@@ -1,0 +1,11 @@
+Directions:
+
+Upon starting the game, you will choose your starting supplies with your initial budget of $20. Your supplies will include cups, lemons, sugar, and ice.
+
+When a new day starts, you will be shown the conditions of that day. These include the temperature, climate, and total potential customers for the day based on the two.
+
+The temperature can range from 55-92 degrees Fahrenheit, and the climate can be Sunny, Sunny and Dry, Cloudy, or Rainy.
+
+Based on the conditions, it is your job to choose how to manage your supplies and decide what goes into your cups of lemonade at the beginning of each day.
+
+Earn as much profit as you can in 7 days and beat your high score!
