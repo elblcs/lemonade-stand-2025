@@ -18,7 +18,7 @@ Lemonade stand simulation - manage supplies, tweak your recipe, set your price, 
 <h2>Running the Game</h2>
 1. Make sure Python is installed on your computer
 <br>
-2. Download project files or clone the repo:
+2. Download project files or clone the repository using Git:
 <pre><code>git clone https://github.com/elblcs/lemonade-stand-2025.git</code></pre>
 <br>
 3.  Open your terminal or PowerShell and navigate to the project folder:
